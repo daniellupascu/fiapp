@@ -1,0 +1,3 @@
+rootProject.name = 'fiapp'
+
+include ':app'
